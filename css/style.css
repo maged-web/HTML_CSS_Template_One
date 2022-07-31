@@ -168,7 +168,7 @@ html {
 }
 
 .landing {
-    background-image: url("/images/686998\ \(1\).webp");
+    background-image: url(../images/white-mountain.png);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
@@ -353,7 +353,7 @@ html {
 
 @media(max-width:991px) {
     .about .about-content {
-        flex-direction: column; 
+        flex-direction: column;
         text-align: center;
     }
 }
